@@ -1,0 +1,8 @@
+F:\renjiashuo\program\AutoClickMouse\AutoClickMouse\bin\Release\AutoClickMouse.exe
+F:\renjiashuo\program\AutoClickMouse\AutoClickMouse\bin\Release\AutoClickMouse.pdb
+F:\renjiashuo\program\AutoClickMouse\AutoClickMouse\obj\x86\Release\AutoClickMouse.AboutBox.resources
+F:\renjiashuo\program\AutoClickMouse\AutoClickMouse\obj\x86\Release\AutoClickMouse.AutoClickMouseLeftButton.resources
+F:\renjiashuo\program\AutoClickMouse\AutoClickMouse\obj\x86\Release\AutoClickMouse.Properties.Resources.resources
+F:\renjiashuo\program\AutoClickMouse\AutoClickMouse\obj\x86\Release\AutoClickMouse.csproj.GenerateResource.Cache
+F:\renjiashuo\program\AutoClickMouse\AutoClickMouse\obj\x86\Release\AutoClickMouse.exe
+F:\renjiashuo\program\AutoClickMouse\AutoClickMouse\obj\x86\Release\AutoClickMouse.pdb
