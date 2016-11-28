@@ -1,0 +1,9 @@
+C:\Users\wsgbcsc\Documents\GitHub\AutoClickMouse\AutoClickMouse\bin\Debug\AutoClickMouse.exe
+C:\Users\wsgbcsc\Documents\GitHub\AutoClickMouse\AutoClickMouse\bin\Debug\AutoClickMouse.pdb
+C:\Users\wsgbcsc\Documents\GitHub\AutoClickMouse\AutoClickMouse\obj\x86\Debug\AutoClickMouse.csprojResolveAssemblyReference.cache
+C:\Users\wsgbcsc\Documents\GitHub\AutoClickMouse\AutoClickMouse\obj\x86\Debug\AutoClickMouse.AboutBox.resources
+C:\Users\wsgbcsc\Documents\GitHub\AutoClickMouse\AutoClickMouse\obj\x86\Debug\AutoClickMouse.AutoClickMouseLeftButton.resources
+C:\Users\wsgbcsc\Documents\GitHub\AutoClickMouse\AutoClickMouse\obj\x86\Debug\AutoClickMouse.Properties.Resources.resources
+C:\Users\wsgbcsc\Documents\GitHub\AutoClickMouse\AutoClickMouse\obj\x86\Debug\AutoClickMouse.csproj.GenerateResource.Cache
+C:\Users\wsgbcsc\Documents\GitHub\AutoClickMouse\AutoClickMouse\obj\x86\Debug\AutoClickMouse.exe
+C:\Users\wsgbcsc\Documents\GitHub\AutoClickMouse\AutoClickMouse\obj\x86\Debug\AutoClickMouse.pdb
